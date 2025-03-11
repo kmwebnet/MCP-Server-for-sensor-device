@@ -11,6 +11,7 @@ This project is a Node.js application designed for use with Claude Desktop. It s
 
 ## Installation
 
+You need to have Node.js installed on your machine to run this application. If you don't have Node.js installed, you can download it from the [official website](https://nodejs.org/).
 1. Clone the repository.
 2. Install the dependencies using npm:
 
